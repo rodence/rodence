@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rodence
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python and Web Development
 - 🌱 I’m currently learning PHP and C#
 - 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me : Telegram No: 09675529106
