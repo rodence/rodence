@@ -24,6 +24,18 @@ Im **Rodence Atacador** also known as **Dence**, and I'm a **BSIT Student** in *
 ### Github Activity: 🔥 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=rodence&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
+
+<div align='center'>
+ <br><br>
+<h3>My Current Skillset</h3> 
+ <img src="https://skillicons.dev/icons?i=html,css,js,mysql,python,flask&theme=dark&perline=8" />
+ <br>
+ <img src="https://skillicons.dev/icons?i=figma,cpp,cs&theme=dark" />
+ 
+ <br>
+ 
+</div>
+
 -----
 Credits: [rodence](https://github.com/rodence)
 
