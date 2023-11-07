@@ -2,7 +2,7 @@
 
 Im **Rodence Atacador** also known as **Dence**, and I'm a **BSIT Student** in **Phinma Araullo University**. I'd want to help new programmers how to run basic programs. <br><br>
 <a href="https://www.youtube.com/channel/UCl2XjROAnRWFUWQlVnClL5g"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"></a><img> <a href="https://www.facebook.com/rodence.atacador.1/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a><img> <a href="https://www.tiktok.com/@rodenceatacador?lang=en"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a><img><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rodence+Atacador+20+years+old;Aspiring+Front-end+Web+Developer;And+currently+studying;Web+Development+and+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+Rodence+Atacador+21+years+old;Aspiring+Web+Developer;And+currently+studying;Web+Development+and+Machine+Learning)](https://git.io/typing-svg)
 
 [![](https://img.shields.io/badge/Gmail-rodencea@gmail.com-red)](mailto:rodencea@gmail.com) [![](https://img.shields.io/badge/Telegram-@rodenceatacador-blue)](https://web.telegram.org/k/#@rodenceatacador)
 
